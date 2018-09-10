@@ -1,4 +1,4 @@
-该项目用来巡我可以蹭哪些课，需提供两个文件：
+该项目用查询我可以蹭哪些课，需提供两个文件：
 
 我的空闲时间段csv文件：`static/my_schedule.csv`，空闲时间段标1即可
 * 选课总表文件：`static/complete_classes.xlsx`，从教务网站上直接下载
